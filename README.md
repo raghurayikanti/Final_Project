@@ -1,6 +1,6 @@
 # **REST API backend for dosa restaurant **
 
-This project is to use an SQLite database and FastAPI to provide access to three objects: customers, items, and orders.** for the backend and **SQLite** as the database.
+This project is to use an SQLite database and FastAPI to provide access to three objects: customers, items, and orders for the backend and **SQLite** as the database.
 
 ---
 
